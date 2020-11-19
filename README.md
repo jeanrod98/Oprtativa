@@ -1,2 +1,2 @@
-# Oprtativa
+# Optativa
 Actividades de Certificación
